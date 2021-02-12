@@ -15,12 +15,12 @@ const ap = new APlayer({
       {
         name: "死ぬにはいい日だった",
         artist: '川下穷江',
-        url: 'aplayer\那是個去死的好日子.mp3'
+        url: 'https://drive.google.com/uc?export=download&id=16SoH7j_Ocl6c2Lz0uULiMODAyhMHsXV1'
       },
       {
         name: '君に最後の口づけを',
         artist: 'まじ娘',
-        url: 'aplayer\君に最後の口づけを.mp3'
+        url: 'https://drive.google.com/uc?export=download&id=1aT3IsDppZDKUSJATR0Txbaocz3YlHLNS'
       }
     ]
 });
