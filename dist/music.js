@@ -15,16 +15,12 @@ const ap = new APlayer({
       {
         name: "死ぬにはいい日だった",
         artist: '川下穷江',
-        url: 'https://www.youtube.com/watch?v=SsTpO_jgFrw',
-        cover: '/music/cover/兩隻老虎.jpg',
-        lrc: '/music/lyrics/兩隻老虎.lrc',
+        url: 'https://www.youtube.com/watch?v=SsTpO_jgFrw'
       },
       {
         name: '君に最後の口づけを',
         artist: 'まじ娘',
-        url: 'https://www.youtube.com/watch?v=ojG9C6L61oA',
-        cover: '/music/cover/哥哥爸爸真偉大.jpg',
-        lrc: '/music/lyrics/哥哥爸爸真偉大.lrc'
+        url: 'https://www.youtube.com/watch?v=ojG9C6L61oA'
       }
     ]
 });
